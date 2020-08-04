@@ -19,7 +19,7 @@ This project detects the type of apperal (clothes or shoes) shown in the image. 
 - Numpy
 - Matplotlib
 
-###Basic Usage
+### Basic Usage
 The repository makes use of the Keras API using the tensorflow.keras library.
 
 1. First clone the repository git clone https://github.com/sahil0220/Clothes-Pridiction-Using-CNN
